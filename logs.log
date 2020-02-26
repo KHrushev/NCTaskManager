@@ -1,0 +1,30 @@
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Controllers initialized.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - App started. Main menu to be displayed.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Save file loaded.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Notification controller launched.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 2.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Tasks Controller finished showing user task list.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 7.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Saving the list, then exiting the app.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Controllers initialized.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - App started. Main menu to be displayed.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Save file loaded.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Notification controller launched.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 2.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Tasks Controller finished showing user task list.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 3.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - List was updated. Triggered update method in Notification Controller.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - List was updated. Triggered update method in Notification Controller.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Added new task via Add Controller.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Saved edited list to a save file.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 2.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Tasks Controller finished showing user task list.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 3.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - List was updated. Triggered update method in Notification Controller.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - List was updated. Triggered update method in Notification Controller.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Added new task via Add Controller.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Saved edited list to a save file.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 2.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Tasks Controller finished showing user task list.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Got user choice: 7.
+[main] INFO  ua.edu.sumdu.j2se.hrushev.tasks.Main  - Saving the list, then exiting the app.
